@@ -8,3 +8,4 @@ dump.rdb
 .tmp
 *.sqlite
 dockercompose
+.idea
